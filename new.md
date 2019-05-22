@@ -7,4 +7,4 @@ Here is some regular text.
 
 [Link to Google](http://www.google.com)
 
-More text.
+More text. This is a test to see if it works. 
